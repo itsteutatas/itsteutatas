@@ -33,9 +33,9 @@ partaken in ddc (danish cyberleague)
 part of n00bsctf [https://ctftime.org/team/165889]
   - international ctf team
     - 15th	Hacky Holidays - Unlock the City
-    - 85th	Tenable CTF 2022
-    - 72th	Hacker's Playground 2022
     - 66th	MapleCTF 2022
+    - 72th	Hacker's Playground 2022
+    - 85th	Tenable CTF 2022
 
 ### Support Me
 
