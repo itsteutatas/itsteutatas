@@ -29,6 +29,7 @@ I've been learning code for 4 years, after discovering the so called Raspberry P
 partaken in ddc (danish cyberleague)
   - got to finals and placed 98th
   
+  
 part of n00bsctf [https://ctftime.org/team/165889]
   - international ctf team
     - 15th	Hacky Holidays - Unlock the City
