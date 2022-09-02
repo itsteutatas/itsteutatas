@@ -24,6 +24,18 @@ I've been learning code for 4 years, after discovering the so called Raspberry P
 
 <p align="left"> <a href="https://discord.com/users/funkymonk#1218" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/itsteutatas" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/alexander-holm-hansen-1903b7238/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
+### Others
+
+partaken in ddc (danish cyberleague)
+  - got to finals and placed 98th
+  
+part of n00bsctf [https://ctftime.org/team/165889]
+  - international ctf team
+    - 15th	Hacky Holidays - Unlock the City
+    - 85th	Tenable CTF 2022
+    - 72th	Hacker's Playground 2022
+    - 66th	MapleCTF 2022
+
 ### Support Me
 
 <a href="https://www.buymeacoffee.com/ZanderX"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
