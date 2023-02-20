@@ -9,7 +9,6 @@ I've been learning code for 4 years, after discovering the so called Raspberry P
 * 🌍  I'm based in denmark
 * 💻  Lead developer and founder of [Brushbot](https://github.com/itsteutatas/BrushBot) and Developer on Parking-system zbc køge
 * ✉️  You can contact me at [Zander@sunshineday.dk](mailto:Zander@sunshineday.dk)
-* 🧠  I'm learning python CLI programming
 * 🤝  I'm open to collaborating on python bot programming \\ package development
 
 ### Skills
