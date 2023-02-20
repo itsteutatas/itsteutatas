@@ -30,7 +30,7 @@ I've been learning code for 4 years, after discovering the so called Raspberry P
 ### Others
 
 partaken in ddc (danish cyberleague)
-  - got to finals and placed 98th
+  - finals placed 98th
   
   
 part of n00bsctf [https://ctftime.org/team/165889]
