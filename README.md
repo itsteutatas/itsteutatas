@@ -34,10 +34,11 @@ partaken in ddc (danish cyberleague)
   - finals 2023 placed 38th
 
 part of SQLKinkjection [https://ctftime.org/team/197263]
- - 16th cursedCTF 2023
- - 18th	CrewCTF 2023
- - 31th	BDSec CTF 2023
- - 35th	AmateursCTF 2023
+  - international ctf team
+     - 16th cursedCTF 2023
+     - 18th	CrewCTF 2023
+     - 31th	BDSec CTF 2023
+     - 35th	AmateursCTF 2023
   
 part of n00bsctf [https://ctftime.org/team/165889]
   - international ctf team
