@@ -4,7 +4,7 @@ Hi 👋 My name is Teutatas
 Student \\ Cyber security freak
 -------------------------
 
-I've been learning code for 4 years, after discovering the so called Raspberry Pi i started to get into coding. After working with a raspberry i started getting into cyber security 2 years ago and found a passion in software development.
+I've been learning code for 5 years, after discovering the so called Raspberry Pi i started to get into coding. After working with a raspberry i started getting into cyber security 3 years ago and found a passion in software development.
 
 * 🌍  I'm based in denmark
 * 💻  Lead developer and founder of [Brushbot](https://github.com/itsteutatas/BrushBot)
