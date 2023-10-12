@@ -30,8 +30,9 @@ I've been learning code for 4 years, after discovering the so called Raspberry P
 ### Others
 
 partaken in ddc (danish cyberleague)
-  - finals 2022 placed 48th
   - finals 2023 placed 38th
+  - finals 2022 placed 48th
+
 
 part of SQLKinkjection [https://ctftime.org/team/197263]
   - international ctf team
