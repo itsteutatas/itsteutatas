@@ -45,6 +45,7 @@ part of n00bsctf [https://ctftime.org/team/165889]
   - international ctf team
     - 8th   T3N4CI0US CTF - Escape 2022
     - 15th	Hacky Holidays - Unlock the City 2022
+    - 36th	idekCTF 2022*
     - 42th  TetCTF 2023
     - 66th	MapleCTF 2022
     - 72th	Hacker's Playground 2022
