@@ -30,6 +30,7 @@ I've been learning code for 5 years, after discovering the so called Raspberry P
 ### Others
 
 partaken in ddc (danish cyberleague)
+  - finals 2024 placed 48th
   - finals 2023 placed 38th
   - finals 2022 placed 48th
 
